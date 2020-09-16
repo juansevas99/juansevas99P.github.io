@@ -1,0 +1,20 @@
+#header{
+    background-color:#2196F3;
+   
+}
+
+#imagen-localizacion{
+    width: 40px;
+}    
+
+
+@media print, screen and (min-width: 40em) {
+    .grid-x.cell-medum{
+        width: 100%;
+
+    }
+}
+footer{
+    position: relative;
+    bottom: 0;
+}
