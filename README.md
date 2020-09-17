@@ -40,7 +40,7 @@
 - [Testing](#testing)
 - [Contributing](#contributing)
 - [Copyright and license](#copyright-and-license)
-
+<a href="Home.html"></a>
 ## Quickstart:
 Read the [getting started guide](http://materializecss.com/getting-started.html) for more information on how to use materialize.
 
